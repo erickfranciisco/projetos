@@ -15,8 +15,8 @@ Simulação de situações reais do mercado de trabalho.
 Uso de design patterns, otimização de código e testes automatizados.
 
 Contato
-Caso tenha interesse em conhecer mais sobre o meu trabalho ou discutir possíveis oportunidades, estou disponível para conversar. Você pode entrar em contato pelo e-mail ou pelo LinkedIn.
-Email:. erickfranciisco@gmail.com
+Caso tenha interesse em conhecer mais sobre o meu trabalho ou discutir possíveis oportunidades, estou disponível para conversar. Você pode entrar em contato pelo e-mail ou pelo LinkedIn.<br>
+Email:. erickfranciisco@gmail.com<br>
 LinkedIn:. https://www.linkedin.com/in/erick-francisco-1b0246303.
 
 Se este repositório for útil para você, considere deixar uma estrela para apoiar o projeto.
